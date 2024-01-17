@@ -1,10 +1,10 @@
-# demoapp
+# Responsive app
 
 A new Flutter application.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a starting point for a Flutter application. And, supported flutter version is >=2.7.0 <3.0.0
 
 A few resources to get you started if this is your first Flutter project:
 
